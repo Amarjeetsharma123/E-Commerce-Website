@@ -13,7 +13,7 @@ A modern, fully responsive, stylish and feature-rich E-Commerce web application 
 <table>
 <tr>
 <td align="center">
-<img src="Developer/amar.png" width="100px" alt="Amarjeet Sharma"/><br/>
+<img src="Developer/amar.jpg" width="100px" alt="Amarjeet Sharma"/><br/>
 <b>Amarjeet Sharma</b><br/>
 <sub>👑 Team Leader</sub><br/>
 <sub>Roll: 08 • 2405112110008</sub>

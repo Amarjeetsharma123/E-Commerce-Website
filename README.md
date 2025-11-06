@@ -14,6 +14,9 @@ A comprehensive E-Commerce platform offering:
 
 This README follows a professional “university project showcase” style similar to the Parul University template you shared.
 
+---
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
 <!-- Amarjeet -->
 <div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
   <img src="Developer/amar.jpg" alt="Amarjeet" 
@@ -37,7 +40,8 @@ This README follows a professional “university project showcase” style simil
   <h4>Hitesh Kr. Chaudhary</h4>
   <p>Developer</p>
 </div>
-
+</div>
+---
 
 ## 🧩 **Tech Stack Badges**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)

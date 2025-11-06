@@ -15,32 +15,38 @@ A comprehensive E-Commerce platform offering:
 This README follows a professional “university project showcase” style similar to the Parul University template you shared.
 
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<!-- Amarjeet -->
-<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
-  <img src="Developer/amar.jpg" alt="Amarjeet" 
-  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
-  <h4>Amarjeet Sharma</h4>
-  <p>Team Leader</p>
+## 🧑‍💼 **Team Leadership**
+### 👑 **Team Leader:**
+**Amarjeet Sharma**
+
+### 👥 **Development Team**
+
+<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: flex-start; padding: 10px 0;">
+
+  <!-- Amarjeet -->
+  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
+    <img src="Developer/amar.jpg" alt="Amarjeet" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+    <h3 style="margin-top:12px;">Amarjeet Sharma</h3>
+    <p style="margin:3px 0; font-size:14px;">👑 Team Leader</p>
+  </div>
+
+  <!-- Manisha -->
+  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
+    <img src="Developer/Pic.jpg" alt="Manisha" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+    <h3 style="margin-top:12px;">Manisha Bhardwaj</h3>
+    <p style="margin:3px 0; font-size:14px;">Developer</p>
+  </div>
+
+  <!-- Hitesh -->
+  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
+    <img src="Developer/Hitesh.jpg" alt="Hitesh" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+    <h3 style="margin-top:12px;">Hitesh Kr. Chaudhary</h3>
+    <p style="margin:3px 0; font-size:14px;">Developer</p>
+  </div>
+
 </div>
 
-<!-- Manisha -->
-<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
-  <img src="Developer/Pic.jpg" alt="Manisha" 
-  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
-  <h4>Manisha Bhardwaj</h4>
-  <p>Developer</p>
-</div>
-
-<!-- Hitesh -->
-<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
-  <img src="Developer/Hitesh.jpg" alt="Hitesh" 
-  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
-  <h4>Hitesh Kr. Chaudhary</h4>
-  <p>Developer</p>
-</div>
-</div>
 ---
 
 ## 🧩 **Tech Stack Badges**

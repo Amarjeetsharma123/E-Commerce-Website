@@ -1,46 +1,37 @@
 # 🛒 **Premium E-Commerce Website**
 A modern, fully responsive, stylish and feature-rich E-Commerce web application built as a professional project with clean UI, animations, and seamless user experience.
 
----
+> A comprehensive, modern university website built by B.Tech AIML students as a collaborative development project.
 
-## 🎓 **Project Overview**
-A comprehensive E-Commerce platform offering:
-- Professional UI/UX
-- Modern animations
-- Fully responsive layouts
-- Shopping cart, wishlist, product pages
-- Dashboard-ready structure
-- Clean code architecture
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Responsive](https://img.shields.io/badge/Responsive-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web.dev/responsive-web-design-basics/)
 
-This README follows a professional “university project showcase” style similar to the Parul University template you shared.
-
----
-
-## 🧑‍💼 **Team Leadership**
-### 👑 **Team Leader:**
-**Amarjeet Sharma**
-
-# 👥 Development Team
+## 👥 Development Team
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="Developer/amar.jpg" width="100" height="100" style="border-radius:50%;" alt="Nishiraj Singh Panwar"/><br>
-      <b>Amarjeet Sharma</b><br>👑 Team Leader<br>Roll: 08 • 2405112110008
-    </td>
-    <td align="center">
-      <img src="Developer/Hitesh.jpg" width="100" height="100" style="border-radius:50%;" alt="Vishal Singh"/><br>
-      <b>Hitesh Kr. Chaudhary</b><br>Developer<br>Roll: 20 • 2405112110020
-    </td>
-    <td align="center">
-      <img src="Developer/Pic.jpg" width="100" height="100" style="border-radius:50%;" alt="Sathvik Kotha"/><br>
-      <b>Manisha Bhardwaj</b><br>Developer<br>Roll: 68 • 2405112110068
-    </td>
-  </tr>
-
+<tr>
+<td align="center">
+<img src="Developer/amar.png" width="100px" alt="Amarjeet Sharma"/><br/>
+<b>Amarjeet Sharma</b><br/>
+<sub>👑 Team Leader</sub><br/>
+<sub>Roll: 08 • 2405112110008</sub>
+</td>
+<td align="center">
+<img src="Developer/Hitesh.jpg" width="100px" alt="Vishal Singh"/><br/>
+<b>Hitesh Kr. Chaudhary</b><br/>
+<sub>Developer</sub><br/>
+<sub>Roll: 20 • 2405112110020</sub>
+</td>
+<td align="center">
+<img src="Developer/Pic.jpg" width="100px" alt="Sathvik"/><br/>
+<b>Manisha Bhardwaj</b><br/>
+<sub>Developer</sub><br/>
+<sub>Roll: 68 • 2405112110068</sub>
+</td>
+</tr>
 </table>
-
----
 
 ## 🧩 **Tech Stack Badges**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)

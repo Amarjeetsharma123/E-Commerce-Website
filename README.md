@@ -20,37 +20,25 @@ This README follows a professional “university project showcase” style simil
 ### 👑 **Team Leader:**
 **Amarjeet Sharma**
 
-## 👥 **Developer Team**
+# 👥 Development Team
 
-<!-- EXACT PARUL-UNIVERSITY STYLE GRID -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 20px 0;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="Developer/amar.jpg" width="100" height="100" style="border-radius:50%;" alt="Nishiraj Singh Panwar"/><br>
+      <b>Amarjeet Sharma</b><br>👑 Team Leader<br>Roll: 08 • 2405112110008
+    </td>
+    <td align="center">
+      <img src="https://your-image-url-2" width="100" height="100" style="border-radius:50%;" alt="Vishal Singh"/><br>
+      <b>Hitesh Kr. Chaudhary</b><br>Developer<br>Roll: 20 • 2405112110020
+    </td>
+    <td align="center">
+      <img src="https://your-image-url-3" width="100" height="100" style="border-radius:50%;" alt="Sathvik Kotha"/><br>
+      <b>Manisha Bhardwaj</b><br>Developer<br>Roll: 68 • 2405112110068
+    </td>
+  </tr>
 
-  <!-- Amarjeet -->
-  <div style="padding: 25px; border: 1px solid #555; border-radius: 10px; background:#0d1117; text-align:center;">
-    <img src="Developer/amar.jpg" alt="Amarjeet" style="width:170px; height:170px; border-radius:50%; object-fit:cover; border:4px solid #777;">
-    <h2 style="margin-top:15px; font-size:20px; font-weight:600;">Amarjeet Sharma</h2>
-    <p style="margin:4px 0; font-size:15px; opacity:0.9;">👑 Team Leader</p>
-    <p style="margin:2px 0; font-size:14px; opacity:0.75;">Roll: 01</p>
-  </div>
-
-  <!-- Manisha -->
-  <div style="padding: 25px; border: 1px solid #555; border-radius: 10px; background:#0d1117; text-align:center;">
-    <img src="Developer/Pic.jpg" alt="Manisha" style="width:170px; height:170px; border-radius:50%; object-fit:cover; border:4px solid #777;">
-    <h2 style="margin-top:15px; font-size:20px; font-weight:600;">Manisha Bhardwaj</h2>
-    <p style="margin:4px 0; font-size:15px; opacity:0.9;">Developer</p>
-    <p style="margin:2px 0; font-size:14px; opacity:0.75;">Roll: 02</p>
-  </div>
-
-  <!-- Hitesh -->
-  <div style="padding: 25px; border: 1px solid #555; border-radius:10px; background:#0d1117; text-align:center;">
-    <img src="Developer/Hitesh.jpg" alt="Hitesh" style="width:170px; height:170px; border-radius:50%; object-fit:cover; border:4px solid #777;">
-    <h2 style="margin-top:15px; font-size:20px; font-weight:600;">Hitesh Kr. Chaudhary</h2>
-    <p style="margin:4px 0; font-size:15px; opacity:0.9;">Developer</p>
-    <p style="margin:2px 0; font-size:14px; opacity:0.75;">Roll: 03</p>
-  </div>
-
-</div>
-
+</table>
 ---
 
 ## 🧩 **Tech Stack Badges**

@@ -29,16 +29,17 @@ This README follows a professional “university project showcase” style simil
       <b>Amarjeet Sharma</b><br>👑 Team Leader<br>Roll: 08 • 2405112110008
     </td>
     <td align="center">
-      <img src="https://your-image-url-2" width="100" height="100" style="border-radius:50%;" alt="Vishal Singh"/><br>
+      <img src="Developer/Hitesh.jpg" width="100" height="100" style="border-radius:50%;" alt="Vishal Singh"/><br>
       <b>Hitesh Kr. Chaudhary</b><br>Developer<br>Roll: 20 • 2405112110020
     </td>
     <td align="center">
-      <img src="https://your-image-url-3" width="100" height="100" style="border-radius:50%;" alt="Sathvik Kotha"/><br>
+      <img src="Developer/Pic.jpg" width="100" height="100" style="border-radius:50%;" alt="Sathvik Kotha"/><br>
       <b>Manisha Bhardwaj</b><br>Developer<br>Roll: 68 • 2405112110068
     </td>
   </tr>
 
 </table>
+
 ---
 
 ## 🧩 **Tech Stack Badges**

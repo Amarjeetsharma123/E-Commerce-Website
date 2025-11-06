@@ -1,0 +1,58 @@
+<% layout("/templates/boilerplate2.ejs") %>
+
+<div class="row justify-content-evenly gap-1">
+  <h5 class="heading-item-page mb-3">&nbsp; Activitys</h5>
+  <% for(let post of posts){ %>
+  <div class="card col-md-5 col-10 mb-3 post-card" href="/item/<%= post._id %>">
+    <img src="<%= post.image.url.replace("/upload", "/upload/q_40") %>" class="card-img-top mb-3 zoom" alt="...">
+    <div class="card-body mb-3 post-card-body">
+      <p><%= post.message || "Thank you for visiting us" %></p>
+      
+      <% let time = post.createdAt.toString().split(" ") %>
+      <div class="post-time"><%= "".concat(time[1]," ", time[2], " ", time[3]) %></div>
+
+      <% if(currAdmin) {%>
+      <div class="category-btns">
+        <a href="/admin/post/edit/<%= post._id %>" class="no-style"><button class="btn btn-outline-warning btn-sm"><i class="fa-regular fa-pen-to-square"></i> Edit</button></a> 
+        &nbsp; &nbsp;
+        <button value="/admin/post/destory/<%= post._id %>?_method=DELETE" class="btn delete-conform btn-outline-danger btn-sm"><i class="fa-solid fa-trash-can"></i> Delete</button>
+      </div>
+      <% } %>
+    </div>
+  </div>  
+  <% } %>
+</div>
+
+
+
+<!-- img holding iffect -->
+<link rel="stylesheet" href="/css/holdingEffect.css">
+
+<div class="hidden-zoom hide-zoom" hidden>
+  <img class="position-absolute top-50 start-50 translate-middle hidden-zoom-img">
+</div>
+
+<script src="/js/holdingEffect.js"></script>
+
+
+
+
+<% if(currAdmin) {%>
+  <!-- delete conform button -->
+  <link rel="stylesheet" href="/css/deleteAlert.css">
+
+
+  <form class="delete-form" id="hidden-delete" method="post" hidden>
+    <div class="category-btns position-absolute top-50 start-50 translate-middle">
+      <p>Delete this post?</p>
+      <button type="submit" class="btn hidden-delete btn-danger"><i class="fa-solid fa-trash-can"></i> Delete</button>
+      &nbsp;&nbsp;
+      <button type="button" id="hide-dismiss" class="btn btn-primary">&nbsp; No &nbsp;</button>
+    </div>
+  </form> 
+
+  <script src="/js/deleteconform.js"></script>
+
+
+<% } %>
+

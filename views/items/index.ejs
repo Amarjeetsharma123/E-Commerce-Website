@@ -1,0 +1,33 @@
+<% layout("/templates/boilerplate2.ejs") %>
+
+<h5 class="heading-item-page">Categories</h5>
+
+<div class="category-on-item mb-3">
+  <a href="/item" class="category-on-item-div">
+    <img class="category-on-item-img" src="https://res.cloudinary.com/dklooe01h/image/upload/q_10/v1735635824/accets/vhv9vzwq1gv8oyqmfkny.jpg" alt="...">
+    <p>All</p>
+  </a>
+  <% for(category of categorys){ %>
+    <a href="/item?cat=<%= category._id %>" class="category-on-item-div">
+      <img class="category-on-item-img" src="<%= category.image.url.replace("/upload", "/upload/q_10") %>" alt="...">
+      <p><%= category.name %></p>
+    </a>
+  <% } %>
+  
+</div>
+
+<h5 class="heading-item-page mb-3">&nbsp;<%= heading %></h5>
+
+<div class="items row justify-content-evenly gap-1">
+  <% for(let item of items){ %>
+  <a class="item-ancher card col-5 col-md-3 item-card mb-3" href="/item/<%= item._id %>">
+    <img src="<%= item.image.url.replace("/upload", "/upload/q_40") %>" class="card-img-top" alt="...">
+    <div class="card-body item-card-body">
+      <p class="item-name"><%= item.name %></p>
+    </div>
+  </a>  
+  <% } %>
+</div>
+
+
+<div class="btn btn-success btn-lg static-plus-btn"><a href="https://wa.me/9484768192"><i class="fa-brands fa-whatsapp"></i></a></div>

@@ -1,0 +1,63 @@
+<% layout("/templates/boilerplate.ejs") %>
+
+<div class="row justify-content-evenly gap-1">
+  <h4 class="top-head mb-3">All categories</h4>
+  <% for(let category of categorys){ %>
+  <div class="card col-5 col-md-3 mb-3 category-card">
+    <img src="<%= category.image.url.replace("/upload", "/upload/q_10") %>" class="card-img-top mb-3" alt="...">
+    <div class="card-body category-card-body">
+      <h5 class="mb-3">&nbsp; <%= category.name %></h5>
+      <div class="category-btns">
+        <a href="/admin/category/edit/<%= category._id %>" class="no-style"><button class="btn btn-outline-warning btn-sm"><i class="fa-regular fa-pen-to-square"></i> Edit</button></a> 
+        &nbsp; &nbsp;
+        <button value="/admin/category/destory/<%= category._id %>?_method=DELETE" class="btn delete-conform btn-outline-danger btn-sm"><i class="fa-solid fa-trash-can"></i> Delete</button>        
+      </div>
+    </div>
+  </div> 
+  <% } %>
+</div>
+
+<!-- delete conform code -->
+
+<style>
+  .delete-form{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.8);
+  }
+
+</style>
+
+
+
+<form class="delete-form" id="hidden-delete" method="post" hidden>
+  <div class="category-btns position-absolute top-50 start-50 translate-middle">
+    <p>Delete this category?</p>
+    <button type="submit" class="btn hidden-delete btn-danger"><i class="fa-solid fa-trash-can"></i> Delete</button>
+    &nbsp;&nbsp;
+    <button type="button" id="hide-dismiss" class="btn btn-primary">&nbsp; No &nbsp;</button>
+  </div>
+</form> 
+
+<script>
+
+  let hidden_delete = document.getElementById("hidden-delete");
+  let hide_dissmiss = document.getElementById("hide-dismiss");
+
+  document.addEventListener("click", () => {
+    if (event.target.classList.contains("delete-conform")) {
+      let link = event.target.value;
+      hidden_delete.action = link;
+      hidden_delete.hidden = false;
+    }
+  });
+
+  hide_dissmiss.addEventListener("click", () => {
+    hidden_delete.hidden = true;
+  });
+
+</script>

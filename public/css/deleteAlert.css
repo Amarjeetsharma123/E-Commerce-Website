@@ -1,0 +1,12 @@
+.delete-form{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.delete-form p{
+  color: #ffffff;
+}

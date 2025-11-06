@@ -20,29 +20,32 @@ This README follows a professional “university project showcase” style simil
 ### 👑 **Team Leader:**
 **Amarjeet Sharma**
 
-### 👥 **Development Team**
+## 👥 **Developer Team**
 
 <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: flex-start; padding: 10px 0;">
 
   <!-- Amarjeet -->
-  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
-    <img src="Developer/amar.jpg" alt="Amarjeet" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+  <div style="width: 230px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
+    <img src="Developer/amar.jpg" alt="Amarjeet" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #777;">
     <h3 style="margin-top:12px;">Amarjeet Sharma</h3>
     <p style="margin:3px 0; font-size:14px;">👑 Team Leader</p>
+    <p style="margin:3px 0; font-size:13px; opacity:0.8;">Roll: 01</p>
   </div>
 
   <!-- Manisha -->
-  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
-    <img src="Developer/Pic.jpg" alt="Manisha" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+  <div style="width: 230px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
+    <img src="Developer/Pic.jpg" alt="Manisha" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #777;">
     <h3 style="margin-top:12px;">Manisha Bhardwaj</h3>
     <p style="margin:3px 0; font-size:14px;">Developer</p>
+    <p style="margin:3px 0; font-size:13px; opacity:0.8;">Roll: 02</p>
   </div>
 
   <!-- Hitesh -->
-  <div style="width: 220px; padding: 20px; border: 1px solid #555; border-radius: 12px; background:#111; text-align:center;">
-    <img src="Developer/Hitesh.jpg" alt="Hitesh" style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #666;">
+  <div style="width: 230px; padding: 20px; border: 1px solid #555; border-radius:12px; background:#111; text-align:center;">
+    <img src="Developer/Hitesh.jpg" alt="Hitesh" style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #777;">
     <h3 style="margin-top:12px;">Hitesh Kr. Chaudhary</h3>
     <p style="margin:3px 0; font-size:14px;">Developer</p>
+    <p style="margin:3px 0; font-size:13px; opacity:0.8;">Roll: 03</p>
   </div>
 
 </div>

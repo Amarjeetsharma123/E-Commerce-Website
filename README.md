@@ -14,55 +14,28 @@ A comprehensive E-Commerce platform offering:
 
 This README follows a professional “university project showcase” style similar to the Parul University template you shared.
 
-## 👥 Development Team
+<!-- Amarjeet -->
+<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
+  <img src="Developer/amar.jpg" alt="Amarjeet" 
+  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
+  <h4>Amarjeet Sharma</h4>
+  <p>Team Leader</p>
+</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<!-- Manisha -->
+<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
+  <img src="Developer/Pic.jpg" alt="Manisha" 
+  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
+  <h4>Manisha Bhardwaj</h4>
+  <p>Developer</p>
+</div>
 
-  <!-- Member 1 -->
-  <div style="
-      width: 170px; 
-      text-align: center; 
-      padding: 15px; 
-      border: 1px solid #444; 
-      border-radius: 10px;">
-    <img src="Developer/amar.jpg" 
-         alt="Amarjeet" 
-         style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <h4>Amarjeet Sharma</h4>
-    <p>Team Leader</p>
-    <p>Roll: 08</p>
-  </div>
-
-  <!-- Member 2 -->
-  <div style="
-      width: 170px; 
-      text-align: center; 
-      padding: 15px; 
-      border: 1px solid #444; 
-      border-radius: 10px;">
-    <img src="Developer/Pic.jpg" 
-         alt="Manisha" 
-         style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <h4>Manisha Bhardwaj</h4>
-    <p>Developer</p>
-    <p>Roll: 68</p>
-  </div>
-
-  <!-- Member 3 -->
-  <div style="
-      width: 170px; 
-      text-align: center; 
-      padding: 15px; 
-      border: 1px solid #444; 
-      border-radius: 10px;">
-    <img src="Developer/Hitesh.jpg" 
-         alt="Hitesh" 
-         style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <h4>Hitesh Kr. Chaudhary</h4>
-    <p>Developer</p>
-    <p>Roll: 20</p>
-  </div>
-
+<!-- Hitesh -->
+<div style="width:160px; text-align:center; padding:15px; border:1px solid #444; border-radius:10px;">
+  <img src="Developer/Hitesh.jpg" alt="Hitesh" 
+  style="width:110px; height:110px; border-radius:50%; object-fit:cover;">
+  <h4>Hitesh Kr. Chaudhary</h4>
+  <p>Developer</p>
 </div>
 
 

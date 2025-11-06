@@ -40,7 +40,7 @@ This README follows a professional “university project showcase” style simil
       padding: 15px; 
       border: 1px solid #444; 
       border-radius: 10px;">
-    <img src="images/Pic.jpg" 
+    <img src="Developer/Pic.jpg" 
          alt="Manisha" 
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <h4>Manisha Bhardwaj</h4>
@@ -55,7 +55,7 @@ This README follows a professional “university project showcase” style simil
       padding: 15px; 
       border: 1px solid #444; 
       border-radius: 10px;">
-    <img src="images/Hitesh.jpg" 
+    <img src="Developer/Hitesh.jpg" 
          alt="Hitesh" 
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <h4>Hitesh Kr. Chaudhary</h4>

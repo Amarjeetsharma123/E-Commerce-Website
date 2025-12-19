@@ -19,13 +19,13 @@ A modern, fully responsive, stylish and feature-rich E-Commerce web application 
 <sub>Roll: 08 • 2405112110008</sub>
 </td>
 <td align="center">
-<img src="Developer/Hitesh.jpg" width="100px" alt="Vishal Singh"/><br/>
+<img src="Developer/Hitesh.jpg" width="100px" alt="Hitesh"/><br/>
 <b>Hitesh Kr. Chaudhary</b><br/>
 <sub>Developer</sub><br/>
 <sub>Roll: 20 • 2405112110020</sub>
 </td>
 <td align="center">
-<img src="Developer/Pic.jpg" width="100px" alt="Sathvik"/><br/>
+<img src="Developer/Pic.jpg" width="100px" alt="Manisha"/><br/>
 <b>Manisha Bhardwaj</b><br/>
 <sub>Developer</sub><br/>
 <sub>Roll: 68 • 2405112110068</sub>

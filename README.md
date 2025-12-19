@@ -25,7 +25,7 @@ A modern, fully responsive, stylish and feature-rich E-Commerce web application 
 <sub>Roll: 20 • 2405112110020</sub>
 </td>
 <td align="center">
-<img src="Developer/Pic.jpg" width="100px" alt="Manisha"/><br/>
+<img src="Developer/manisha.jpg" width="100px" alt="Manisha"/><br/>
 <b>Manisha Bhardwaj</b><br/>
 <sub>Developer</sub><br/>
 <sub>Roll: 68 • 2405112110068</sub>
